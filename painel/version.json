@@ -1,9 +1,9 @@
 {
-  "versionCode": 8,
-  "versionName": "1.0.7",
-  "url": "https://github.com/Luscah47/menuka-apps/releases/download/painel-v1.0.7/menuka-painel-1.0.7-8.apk",
-  "sha256": "6ff397f0ddc60e745852aebb5c5389b49fd851de87757b12a7bfc0e89b24ec4e",
-  "size": 5983072,
-  "notes": "Arrastar pedidos só para a frente, passando por Confirmado; ativar notificações não trava mais",
-  "publishedAt": "2026-10-28T14:47:19.898Z"
+  "versionCode": 9,
+  "versionName": "1.0.8",
+  "url": "https://github.com/Luscah47/menuka-apps/releases/download/painel-v1.0.8/menuka-painel-1.0.8-9.apk",
+  "sha256": "793b02302a7580ffa0790bac42034c8a21da09eb2fffef001fb472800176a3f9",
+  "size": 5618151,
+  "notes": "Som do pedido novo sempre toca (inclusive logo ao abrir o app) e aviso com toque próprio em segundo plano; adicionais saem na impressão; cupom reformatado; impressão automática mais confiável; ESC fecha telas; limite nas observações; fonte Poppins",
+  "publishedAt": "2026-10-28T22:09:38.947Z"
 }
