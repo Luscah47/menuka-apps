@@ -1,9 +1,9 @@
 {
-  "versionCode": 6,
-  "versionName": "1.0.5",
-  "url": "https://github.com/Luscah47/menuka-apps/releases/download/painel-v1.0.5/menuka-painel-1.0.5-6.apk",
-  "sha256": "e4007aea8a6745e447e529f7d6414aaa36bec183855c79470df7b3f762b290f5",
-  "size": 5981584,
-  "notes": "Atualização entregue pelo GitHub",
-  "publishedAt": "2026-10-28T12:14:15.394Z"
+  "versionCode": 7,
+  "versionName": "1.0.6",
+  "url": "https://github.com/Luscah47/menuka-apps/releases/download/painel-v1.0.6/menuka-painel-1.0.6-7.apk",
+  "sha256": "2675bc69adeb70689150a0c1a93914693e45205f5848e76f985364b09a785d17",
+  "size": 5981736,
+  "notes": "Versão de teste da atualização automática",
+  "publishedAt": "2026-10-28T12:48:08.517Z"
 }
