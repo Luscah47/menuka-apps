@@ -1,9 +1,9 @@
 {
-  "versionCode": 7,
-  "versionName": "1.0.6",
-  "url": "https://github.com/Luscah47/menuka-apps/releases/download/painel-v1.0.6/menuka-painel-1.0.6-7.apk",
-  "sha256": "2675bc69adeb70689150a0c1a93914693e45205f5848e76f985364b09a785d17",
-  "size": 5981736,
-  "notes": "Versão de teste da atualização automática",
-  "publishedAt": "2026-10-28T12:48:08.517Z"
+  "versionCode": 8,
+  "versionName": "1.0.7",
+  "url": "https://github.com/Luscah47/menuka-apps/releases/download/painel-v1.0.7/menuka-painel-1.0.7-8.apk",
+  "sha256": "6ff397f0ddc60e745852aebb5c5389b49fd851de87757b12a7bfc0e89b24ec4e",
+  "size": 5983072,
+  "notes": "Arrastar pedidos só para a frente, passando por Confirmado; ativar notificações não trava mais",
+  "publishedAt": "2026-10-28T14:47:19.898Z"
 }
