@@ -1,9 +1,9 @@
 {
-  "versionCode": 9,
-  "versionName": "1.0.8",
-  "url": "https://github.com/Luscah47/menuka-apps/releases/download/painel-v1.0.8/menuka-painel-1.0.8-9.apk",
-  "sha256": "793b02302a7580ffa0790bac42034c8a21da09eb2fffef001fb472800176a3f9",
-  "size": 5618151,
-  "notes": "Som do pedido novo sempre toca (inclusive logo ao abrir o app) e aviso com toque próprio em segundo plano; adicionais saem na impressão; cupom reformatado; impressão automática mais confiável; ESC fecha telas; limite nas observações; fonte Poppins",
-  "publishedAt": "2026-10-28T22:09:38.947Z"
+  "versionCode": 10,
+  "versionName": "1.0.9",
+  "url": "https://github.com/Luscah47/menuka-apps/releases/download/painel-v1.0.9/menuka-painel-1.0.9-10.apk",
+  "sha256": "3bf4657f106e1e5c7c6f27382a9bc8d3b48303c76e3f2810d7b2dde68f60a862",
+  "size": 5760968,
+  "notes": "Nota fiscal NFC-e e NF-e pela FlowX, painel Documentos Fiscais com DANFE e importação de notas, iFood (avaliações, preço e disponibilidade), horário com terceiro turno e entrega por distância com mapa",
+  "publishedAt": "2026-11-03T18:54:02.825Z"
 }
