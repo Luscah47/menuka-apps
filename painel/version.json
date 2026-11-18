@@ -1,9 +1,9 @@
 {
-  "versionCode": 13,
-  "versionName": "1.0.12",
-  "url": "https://github.com/Luscah47/menuka-apps/releases/download/painel-v1.0.12/menuka-painel-1.0.12-13.apk",
-  "sha256": "b9aca7ddab7ab57d814dd2da716cc09c25d8f0f7efd69c472ea86197b00e7b88",
-  "size": 5770228,
-  "notes": "Corrige a conexão com a impressora Bluetooth no Android 12 ou mais novo.",
-  "publishedAt": "2026-11-18T21:50:45.357Z"
+  "versionCode": 14,
+  "versionName": "1.0.13",
+  "url": "https://github.com/Luscah47/menuka-apps/releases/download/painel-v1.0.13/menuka-painel-1.0.13-14.apk",
+  "sha256": "e1b83472e492e0e98349470f1837a1036c77edddb7575136419e967f50cbbee9",
+  "size": 5771072,
+  "notes": "Várias impressoras Bluetooth (cozinha e caixa), aviso quando a impressora cai e aviso de atualização por notificação.",
+  "publishedAt": "2026-11-18T22:04:25.037Z"
 }
