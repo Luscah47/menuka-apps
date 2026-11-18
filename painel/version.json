@@ -1,9 +1,9 @@
 {
-  "versionCode": 11,
-  "versionName": "1.0.10",
-  "url": "https://github.com/Luscah47/menuka-apps/releases/download/painel-v1.0.10/menuka-painel-1.0.10-11.apk",
-  "sha256": "eddb21b82428edc9f0a45ef28337383bc2565b3d1e892a0e9aa8c5082f4358db",
-  "size": 5769964,
-  "notes": "Impressora Bluetooth direto do tablet, sem o FlowX Agent: escolha a impressora em Configurações > Impressora; reconecta sozinha quando cai.",
-  "publishedAt": "2026-11-18T21:38:14.160Z"
+  "versionCode": 12,
+  "versionName": "1.0.11",
+  "url": "https://github.com/Luscah47/menuka-apps/releases/download/painel-v1.0.11/menuka-painel-1.0.11-12.apk",
+  "sha256": "648477eeced5578ca8437e34688052a1c9d7bfdfb4c8dd2f3e6c47b5eec98abd",
+  "size": 5770172,
+  "notes": "Versão de teste da atualização automática; ajuste visual no Histórico do cardápio.",
+  "publishedAt": "2026-11-18T21:43:21.660Z"
 }
