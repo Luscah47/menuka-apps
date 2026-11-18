@@ -1,9 +1,9 @@
 {
-  "versionCode": 17,
-  "versionName": "1.0.16",
-  "url": "https://github.com/Luscah47/menuka-apps/releases/download/painel-v1.0.16/menuka-painel-1.0.16-17.apk",
-  "sha256": "209d7c92de395d7cdd4fca9b9cf575d474e77e9a01ff0894f2416cd94b422f14",
-  "size": 5774440,
-  "notes": "Roda em segundo plano com notificação fixa (impressoras e última impressão); cupom não corta mais o nome do item.",
-  "publishedAt": "2026-11-18T22:37:58.656Z"
+  "versionCode": 18,
+  "versionName": "1.0.17",
+  "url": "https://github.com/Luscah47/menuka-apps/releases/download/painel-v1.0.17/menuka-painel-1.0.17-18.apk",
+  "sha256": "2a0e7ac4a72e2baad6b46d3e5875d8a25e19eba4181dbd8fe683769f432e5889",
+  "size": 5776252,
+  "notes": "Impressora USB pelo adaptador OTG (escolha em Impressão > Bluetooth > Adicionar impressora).",
+  "publishedAt": "2026-11-18T22:48:42.703Z"
 }
