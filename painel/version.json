@@ -1,9 +1,9 @@
 {
-  "versionCode": 16,
-  "versionName": "1.0.15",
-  "url": "https://github.com/Luscah47/menuka-apps/releases/download/painel-v1.0.15/menuka-painel-1.0.15-16.apk",
-  "sha256": "49bb8166ef44b6e380f5dad01ae3b7514ff109217e274ee9528411a4b514479f",
-  "size": 5772324,
-  "notes": "Pedido de entrega imprime só as vias configuradas (sem a 3ª via repetida).",
-  "publishedAt": "2026-11-18T22:26:36.515Z"
+  "versionCode": 17,
+  "versionName": "1.0.16",
+  "url": "https://github.com/Luscah47/menuka-apps/releases/download/painel-v1.0.16/menuka-painel-1.0.16-17.apk",
+  "sha256": "209d7c92de395d7cdd4fca9b9cf575d474e77e9a01ff0894f2416cd94b422f14",
+  "size": 5774440,
+  "notes": "Roda em segundo plano com notificação fixa (impressoras e última impressão); cupom não corta mais o nome do item.",
+  "publishedAt": "2026-11-18T22:37:58.656Z"
 }
