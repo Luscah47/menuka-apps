@@ -1,9 +1,9 @@
 {
-  "versionCode": 21,
-  "versionName": "1.0.20",
-  "url": "https://github.com/Luscah47/menuka-apps/releases/download/painel-v1.0.20/menuka-painel-1.0.20-21.apk",
-  "sha256": "e2b1dfea25e4054215ff728147196af282db533e23fdd752107766aa957aebe0",
-  "size": 5778416,
-  "notes": "Impressora reconecta ao reabrir o app; configuração de impressão por aparelho; sessões abertas na barra de status.",
-  "publishedAt": "2026-11-18T23:47:29.455Z"
+  "versionCode": 22,
+  "versionName": "1.0.21",
+  "url": "https://github.com/Luscah47/menuka-apps/releases/download/painel-v1.0.21/menuka-painel-1.0.21-22.apk",
+  "sha256": "f7bff90597fed922e563de259151f750e130efb09b089f7b56390c86afb600e9",
+  "size": 5779496,
+  "notes": "Status do pedido muda na hora; alarme toca até alguém abrir o pedido; sem notificação com o app aberto; localizador do iFood.",
+  "publishedAt": "2026-11-18T23:59:23.306Z"
 }
