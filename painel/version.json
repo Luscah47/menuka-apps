@@ -1,9 +1,9 @@
 {
-  "versionCode": 15,
-  "versionName": "1.0.14",
-  "url": "https://github.com/Luscah47/menuka-apps/releases/download/painel-v1.0.14/menuka-painel-1.0.14-15.apk",
-  "sha256": "d8afe1d217982d95f66697a1580356adcefd3ff79500c0b40a4a2012c8ca384b",
-  "size": 5772264,
-  "notes": "Conecta em mais modelos de impressora Bluetooth; corrige o toque na barra lateral recolhida.",
-  "publishedAt": "2026-11-18T22:15:43.762Z"
+  "versionCode": 16,
+  "versionName": "1.0.15",
+  "url": "https://github.com/Luscah47/menuka-apps/releases/download/painel-v1.0.15/menuka-painel-1.0.15-16.apk",
+  "sha256": "49bb8166ef44b6e380f5dad01ae3b7514ff109217e274ee9528411a4b514479f",
+  "size": 5772324,
+  "notes": "Pedido de entrega imprime só as vias configuradas (sem a 3ª via repetida).",
+  "publishedAt": "2026-11-18T22:26:36.515Z"
 }
