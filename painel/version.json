@@ -1,9 +1,9 @@
 {
-  "versionCode": 19,
-  "versionName": "1.0.18",
-  "url": "https://github.com/Luscah47/menuka-apps/releases/download/painel-v1.0.18/menuka-painel-1.0.18-19.apk",
-  "sha256": "c8c911df097aaeaaee86dab3f14fcc64bb9cb56d3a9858dc7a8acdc86a5af8f2",
-  "size": 5776580,
-  "notes": "Imprime sozinho com o app em segundo plano; comanda paga sai marcada PAGO.",
-  "publishedAt": "2026-11-18T23:10:02.776Z"
+  "versionCode": 20,
+  "versionName": "1.0.19",
+  "url": "https://github.com/Luscah47/menuka-apps/releases/download/painel-v1.0.19/menuka-painel-1.0.19-20.apk",
+  "sha256": "47bfe8ad1bda621de62020986a65431b7050acf2fce4a9f04df978119edbd487",
+  "size": 5776716,
+  "notes": "Layout do tablet: barra de status numa linha, menu lateral recolhido e texto no tamanho certo.",
+  "publishedAt": "2026-11-18T23:34:53.289Z"
 }
