@@ -1,9 +1,9 @@
 {
-  "versionCode": 24,
-  "versionName": "1.0.23",
-  "url": "https://github.com/Luscah47/menuka-apps/releases/download/painel-v1.0.23/menuka-painel-1.0.23-24.apk",
-  "sha256": "210253010646085aba898ea95577c61b64a8515583066d335d44479538af9261",
-  "size": 5779560,
-  "notes": "Não imprime mais pedidos antigos sozinho.",
-  "publishedAt": "2026-11-19T00:14:35.563Z"
+  "versionCode": 25,
+  "versionName": "1.0.24",
+  "url": "https://github.com/Luscah47/menuka-apps/releases/download/painel-v1.0.24/menuka-painel-1.0.24-25.apk",
+  "sha256": "874ad2586f81b4811820f088d4fcb1f0101e9ac3bfd0612cf1fde66a7c5134af",
+  "size": 5779679,
+  "notes": "PDV mais rápido no tablet (busca e categorias), novo pedido em um toque, detalhe do pedido mais limpo, X dos modais maior e avisos de atualização discretos",
+  "publishedAt": "2026-11-19T01:50:05.636Z"
 }
