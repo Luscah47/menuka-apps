@@ -1,9 +1,9 @@
 {
-  "versionCode": 23,
-  "versionName": "1.0.22",
-  "url": "https://github.com/Luscah47/menuka-apps/releases/download/painel-v1.0.22/menuka-painel-1.0.22-23.apk",
-  "sha256": "bd108a922c446ccd10a83f3195c4cb164f6d592c872eebd5777bcc10612b0c5b",
-  "size": 5779136,
-  "notes": "Corrige o travamento \"Menuka não está respondendo\".",
-  "publishedAt": "2026-11-19T00:05:15.270Z"
+  "versionCode": 24,
+  "versionName": "1.0.23",
+  "url": "https://github.com/Luscah47/menuka-apps/releases/download/painel-v1.0.23/menuka-painel-1.0.23-24.apk",
+  "sha256": "210253010646085aba898ea95577c61b64a8515583066d335d44479538af9261",
+  "size": 5779560,
+  "notes": "Não imprime mais pedidos antigos sozinho.",
+  "publishedAt": "2026-11-19T00:14:35.563Z"
 }
