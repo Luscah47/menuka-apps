@@ -1,9 +1,9 @@
 {
-  "versionCode": 25,
-  "versionName": "1.0.24",
-  "url": "https://github.com/Luscah47/menuka-apps/releases/download/painel-v1.0.24/menuka-painel-1.0.24-25.apk",
-  "sha256": "874ad2586f81b4811820f088d4fcb1f0101e9ac3bfd0612cf1fde66a7c5134af",
-  "size": 5779679,
-  "notes": "PDV mais rápido no tablet (busca e categorias), novo pedido em um toque, detalhe do pedido mais limpo, X dos modais maior e avisos de atualização discretos",
-  "publishedAt": "2026-11-19T01:50:05.636Z"
+  "versionCode": 26,
+  "versionName": "1.0.25",
+  "url": "https://github.com/Luscah47/menuka-apps/releases/download/painel-v1.0.25/menuka-painel-1.0.25-26.apk",
+  "sha256": "3eb95fbad0cbcb857890ae1d12911290195e077e1bacb5ac0726db29bdc905f6",
+  "size": 5783347,
+  "notes": "Atualização de segurança (Capacitor 8.6.2).",
+  "publishedAt": "2026-11-22T13:03:09.136Z"
 }
